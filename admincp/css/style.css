@@ -1,0 +1,61 @@
+.header p {
+    font-size: 35px;
+    color: rgb(22, 22, 236);
+    font-weight: 600;
+    background-color: rgb(161, 161, 161);
+}
+
+.control_l {
+    width: 20%;
+    margin-left: 10px;
+}
+
+.control_r table {
+    width: 100%;
+    margin: 5px auto;
+    width: 70%;
+
+
+}
+
+.control_r .name {
+    width: 300px;
+}
+
+.control_r {
+    width: 75%;
+
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav li a {
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+}
+h2,th,td,select,input{
+    color: rgb(126, 126, 126);
+}
+tr{
+    margin: 10px 0;
+}
+.lk{
+    text-align: center;
+}
+.ql{
+    display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+.ql a{
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
